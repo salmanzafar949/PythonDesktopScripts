@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6.1 (C:\Users\ges\AppData\Local\Programs\Python\Python36-32\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="pythonleaning" />
+    <orderEntry type="module" module-name="serial_com" />
+    <orderEntry type="module" module-name="webcrawler" />
+    <orderEntry type="module" module-name="randomnumbermatch" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
